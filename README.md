@@ -67,6 +67,8 @@ A responsive and interactive frontend dashboard built for HR Managers to track e
 
 
 **Bookmark Manager Page**
+![image](https://github.com/user-attachments/assets/e4776540-c199-43f4-8eff-5f7be1d761dd)
+
 ---
 
 ## ⚙️ Setup Instructions

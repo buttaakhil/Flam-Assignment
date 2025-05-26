@@ -60,5 +60,14 @@ A responsive and interactive frontend dashboard built for HR Managers to track e
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/hr-dashboard.git
-   cd hr-dashboard
+   git clone https://github.com/buttaakhil/Flam-Assignment.git
+   cd Flam-Assignment
+
+2. **Install Dependencies**
+   ```bash
+   npm install
+
+3. **Run the Development Server**
+   ```bash
+   npm run dev
+

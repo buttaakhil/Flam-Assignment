@@ -3,6 +3,9 @@
 A responsive and interactive frontend dashboard built for HR Managers to track employee performance, manage bookmarks, and gain analytical insights into team productivity.
 
 
+🔗 **Live Demo**: [Click here to view the live app]([https://your-live-site-link.vercel.app](https://flam-assignment-akhil.vercel.app/)
+
+
 ## 🚀 Features
 
 ### 🏠 Dashboard Homepage (`/`)

@@ -52,11 +52,21 @@ A responsive and interactive frontend dashboard built for HR Managers to track e
 
 ## 📸 Screenshots
 
-**HR DashBoard**
+**HR DashBoard Home Page**
 ![image](https://github.com/user-attachments/assets/f5699c97-4ab5-4a76-bf94-31901d4fc552)
 
-![image](https://github.com/user-attachments/assets/02faeb09-ff8a-4f17-bbfb-557ec3ca63b7)
+![image](https://github.com/user-attachments/assets/fc575ccb-a595-4a07-b623-ce38ffb30136)
 
+
+**Employee Details Page**
+![image](https://github.com/user-attachments/assets/8118d303-c22e-46dd-856a-1ef3cf2a2f26)
+
+
+**Analytics Page**
+![image](https://github.com/user-attachments/assets/8ccfd4e3-16e1-45a5-b746-6653010d3a55)
+
+
+**Bookmark Manager Page**
 ---
 
 ## ⚙️ Setup Instructions

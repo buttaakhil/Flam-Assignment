@@ -39,7 +39,7 @@ A responsive and interactive frontend dashboard built for HR Managers to track e
 
 | Layer              | Technology         |
 |--------------------|--------------------|
-| UI Library         | React.js           |
+| UI Library         | React.js, Shadcn-ui|
 | Routing            | React Router DOM   |
 | State Management   | Context API        |
 | Charts             | Recharts           |

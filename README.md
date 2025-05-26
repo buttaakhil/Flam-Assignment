@@ -57,17 +57,27 @@ A responsive and interactive frontend dashboard built for HR Managers to track e
 
 ![image](https://github.com/user-attachments/assets/fc575ccb-a595-4a07-b623-ce38ffb30136)
 
+---
 
 **Employee Details Page**
 ![image](https://github.com/user-attachments/assets/8118d303-c22e-46dd-856a-1ef3cf2a2f26)
 
-
-**Analytics Page**
-![image](https://github.com/user-attachments/assets/8ccfd4e3-16e1-45a5-b746-6653010d3a55)
-
+---
 
 **Bookmark Manager Page**
+![image](https://github.com/user-attachments/assets/8ccfd4e3-16e1-45a5-b746-6653010d3a55)
+
+---
+
+**Analytics Page**
 ![image](https://github.com/user-attachments/assets/e4776540-c199-43f4-8eff-5f7be1d761dd)
+
+![image](https://github.com/user-attachments/assets/e24bfc16-4b95-4565-9886-d118bffe5e41)
+
+---
+
+**Dark Mode Feature**
+![image](https://github.com/user-attachments/assets/e45f7c73-d413-47b4-8f20-57d46934d75e)
 
 ---
 
